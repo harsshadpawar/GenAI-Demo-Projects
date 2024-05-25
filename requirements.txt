@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+huggingface_hub
+ipykernel
+chromadb
+python-dotenv
+docarray
+tiktoken
+openai
+llama-index
+llama-index-core
+weaviate-client==4.5.7
+streamlit==1.30.0
