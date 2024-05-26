@@ -3,3 +3,4 @@ data/
 01-Langchain-Framework/
 02-LLama-Index-Framework/
 models/
+chroma_db/
