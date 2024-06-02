@@ -15,11 +15,13 @@ This project demonstrates a simple voice-activated assistant powered by OpenAI's
 1. **Clone the Repository:**
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Harsshadpawar06/GenAI-Demo-Projects.git
    cd jarvis-demo
+	 
 
 2. **Install Dependencies:**
-pip install streamlit openai whisper gtts pydub Pillow pyaudio wave 
+	```bash
+	pip install streamlit openai whisper gtts pydub Pillow pyaudio wave 
 
 3. **Set Your OpenAI API Key:**
 
