@@ -30,8 +30,8 @@ Add your OpenAI API key: OPENAI_API_KEY=<your-key>
 
 Running the Demo
 1. **Start the Streamlit App:** 
-
-streamlit run app.py
+	```bash
+		streamlit run app.py
 
 2. **Interact with J.A.R.V.I.S.:** 
 
