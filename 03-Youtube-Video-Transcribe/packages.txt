@@ -1,0 +1,6 @@
+python-dotenv
+openai
+streamlit==1.30.0
+youtube_transcript_api
+pathlib
+pytube
