@@ -4,6 +4,8 @@
 
 # conda activate devenv
 
+# conda activate /d/Generative-AI/GenAI-Demo-Projects/venv
+
 # streamlit run app.py
 
 # J.A.R.V.I.S. (Just A Rather Very Intelligent System) Demo

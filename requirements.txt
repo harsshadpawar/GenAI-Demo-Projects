@@ -13,3 +13,6 @@ llama-index
 llama-index-core
 weaviate-client==4.5.7
 streamlit==1.30.0
+youtube_transcript_api
+pathlib
+pytube
